@@ -1,7 +1,5 @@
 import React from 'react';
 import { Route, Routes } from 'react-router-dom';
-import { Banana } from '@rize-labs/banana-wallet-sdk/dist/BananaProvider'
-import { Chains } from '@rize-labs/banana-wallet-sdk/dist/Constants';
 import { Sidebar, Navbar } from './components';
 import { CampaignDetails, CreateCampaign, Dashboard, Home, Profile } from './pages';
 
