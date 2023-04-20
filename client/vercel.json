@@ -1,0 +1,1 @@
+{ "rewrites": [ { "source": "/", "destination": "/" }, { "source": "/(.*)", "destination": "/"}, { "source": "/app", "destination": "/app" }, { "source": "/app/create-campaign", "destination": "/app/create-campaign" }, { "source": "/profile", "destination": "/profile" } ] }
